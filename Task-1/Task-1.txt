@@ -1,0 +1,1 @@
+Created a landing page for chess.com using html,css and js.
